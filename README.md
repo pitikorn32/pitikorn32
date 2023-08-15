@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pitikorn Khlaisamniang</h1>
 <h3 align="center">A passionate developer from Thailand</h3>
 
-- 🔭 I’m currently studying in **MS Stat, Chulalongkorn University**
-
 - 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **pitikorn32@gmail.com**
 
-<h4 align="center">"Was wir wissen, ist ein Tropfen - was wir nicht wissen, ein Ozean" (Isacc Newton)</h4>
+<h4 align="center">"Was wir wissen, ist ein Tropfen - was wir nicht wissen, ein Ozean" (Isaac Newton)</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
